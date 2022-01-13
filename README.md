@@ -8,6 +8,10 @@ Continuous testing helper / file watcher, similar in design to
 [this Python version](https://github.com/eigenhombre/continuous-testing-helper),
 rewritten in Go for ease of installation and performance.
 
+# Install
+
+    go install github.com/eigenhombre/conttest@latest
+    
 # Usage
 
 When `conttest` is run in a directory, its argument will be run once, then each time a file in that directory is saved.
