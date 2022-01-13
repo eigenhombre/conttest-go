@@ -4,7 +4,8 @@
 
 ![build](https://github.com/eigenhombre/conttest/actions/workflows/build.yml/badge.svg)
 
-Continuous testing helper / file watcher, similar in design to [this Python version](https://github.com/eigenhombre/continuous-testing-helper),
+Continuous testing helper / file watcher, similar in design to 
+[this Python version](https://github.com/eigenhombre/continuous-testing-helper),
 rewritten in Go for ease of installation and performance.
 
 # Usage
