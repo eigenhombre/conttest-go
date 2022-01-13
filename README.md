@@ -10,6 +10,8 @@ rewritten in Go for ease of installation and performance.
 
 # Install
 
+Install Go using your OS'es package manager.  Then,
+
     go install github.com/eigenhombre/conttest@latest
     
 # Usage
