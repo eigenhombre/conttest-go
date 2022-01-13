@@ -27,7 +27,7 @@ When `conttest` is run in a directory, its argument will be run once, then each 
     $ conttest "make -n"
 
     # ... or to run compound commands or pipes:
-    $ conttest 'make && make install && myprog'
+    $ conttest 'make && make install && myprog | grep -i error'
     $ conttest 'go test && say "OK" || say "FAIL"'
 
 # License
